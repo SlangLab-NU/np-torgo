@@ -4,6 +4,8 @@ This repository contains the official code for our IEEE ICC '25 paper: "Enhancin
 
 Authors: Macarious Kin Fung Hui, Jinda Zhang, Aanchan Mohan
 
+Dataset available at: https://huggingface.co/datasets/jindaznb/np-torgo
+
 ## Number of Audio Data per Speaker used in Training/Validation/Testing
 
 ### No Repeated Data between the Train/Validation Sets and the Test Set
